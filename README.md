@@ -1,0 +1,2 @@
+# slstatus
+saves me time
